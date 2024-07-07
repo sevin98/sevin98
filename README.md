@@ -1,4 +1,4 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sevin's%20GitHub!&fontAlign=70&fontAlignY=40&color=gradient)
 
 ### 🙇 안녕하세요, 🚧  BE Programmer 박세빈입니다.
 ---
