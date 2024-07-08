@@ -23,4 +23,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sevinxichi/)
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevin98&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevin98&layout=compact&theme=dracula)   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevin98&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevin98&layout=compact)   
