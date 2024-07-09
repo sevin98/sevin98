@@ -24,4 +24,4 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevin98&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevin98&layout=compact)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevin98&langs_count=10&layout=compact&theme=white)](https://github.com/sevin98)
