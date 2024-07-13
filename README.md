@@ -1,6 +1,8 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sevin's%20GitHub&fontAlign=70&fontAlignY=40&color=gradient)
+<div align=center>
+  
 
-### 🙇 안녕하세요, 🚧  BE Programmer 박세빈입니다. 
+### ✨ Welcome ✨
 ---
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=psv0817)](https://solved.ac/wke1wke1) <img src="http://mazandi.herokuapp.com/api?handle=psv0817&theme=warm"/>
 
