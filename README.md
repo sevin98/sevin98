@@ -1,5 +1,3 @@
-<div align="center">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevin98&show_icons=true)
 ![Top Langs](https://github-readme-stats-sandy-psi-73.vercel.app/api/top-langs/?username=sevin98&theme=github_dark&layout=compact)
 
@@ -21,11 +19,9 @@
 
 ## Latest Posts
 
-<p align="center">
   <a href="https://velog.io/@sevin98">
     <img src="https://img.shields.io/badge/Velog-sevin98-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
-</p>
 
 <table>
 <tr>
@@ -84,5 +80,3 @@
 <p align="right">
   <a href="https://velog.io/@sevin98">전체 글 보기 →</a>
 </p>
-
-</div>
